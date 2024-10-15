@@ -8,5 +8,10 @@
     - git remote add origin https://github.com/your-username-here/github-pages-test.git
     - git push -u origin main
     - (Or with vsc)
-3. [Configuring a publishing source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) 
-    - In our case, select branch main and folder /root
+
+## Deploying as pages
+You actually have two options: Github action and build from branch
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+For our purposes, just do either one work. Try what you like. In my case, I did publishing via branch. Feel free to use the appropriate action workflow. In the case of a vanilla static site, just do "deploy via "static HTML".
+
+![image info](./Screenshot%202024-10-15%20093957.png)
