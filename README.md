@@ -14,8 +14,8 @@ You actually have two options: Github action and build from branch
 https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 For our purposes, just do either one work. Try what you like. In my case, I did publishing via branch. Feel free to use the appropriate action workflow. In the case of a vanilla static site, just do "deploy via "static HTML".
 
-[This](https://dannykcw.github.io/github-pages-test/) is the result from my repo
-
 ![image info](./Screenshot%202024-10-15%20093957.png)
 
-Also I don't have a domain to demo this but see [this](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages) since we have our own domain
+[This](https://dannykcw.github.io/github-pages-test/) is the result from my repo
+
+Also I don't have a domain to demo this but see [About custom domains and GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages) since we have our own domain
